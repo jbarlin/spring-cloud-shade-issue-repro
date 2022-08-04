@@ -1,0 +1,1 @@
+# spring-cloud-shade-issue-repro
